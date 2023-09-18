@@ -1,0 +1,88 @@
+
+.barra .l1 td{
+    text-align: center;
+    width:180px;
+    font-size: smaller;
+}
+
+.br{
+    height:19px;
+    width: 27px;
+}
+
+.covid{
+    color: red;
+}
+.barra{
+    margin: 0px 200px 0px 200px;
+}
+
+footer{
+    text-align: center;
+    color: white;
+    background-color: red;
+    padding: 0%;
+    margin: 0%;
+}
+
+.barra .l1 td{
+    border-style: solid;
+}
+
+.p{
+    width: 180px;
+    height: 40px;
+}
+
+.a{
+    margin-right: 7px;
+}
+
+.b,.p,.a{
+    color: white;
+}
+
+.um, .dois, .tres, .quatro{
+    width: 1000px;
+    margin: 0px 200px 0px 200px;
+}
+
+.barraverde {
+    background-color: rgb(10, 108, 10);
+    margin: 20px 130px 0px 130px;
+    display: flex;
+    max-height: 50px;
+    min-width: 1100px;
+    border-radius: 10px;
+}
+
+.homeicon{
+    height: 40px;
+    width: 40px;
+    margin: 5px;
+}
+
+.news img{
+    height: 300px;
+    width: 300px;
+    border-style: solid;
+}
+
+.notícias{
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+.manchete{
+    margin: 0%;
+}
+
+button :hover{
+    transition: ease-in-out 1ms;
+    transform: scale(100.5%);
+}
+
+button{
+    background-color: white;
+    border-color: white;
+}
